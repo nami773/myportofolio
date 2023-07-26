@@ -30,7 +30,9 @@ export const Resume = ({ update }) => {
               <h4>Python Developer</h4>
               <h5>August - December 2022</h5>
               <p>
-                <em>Remote - Burnaby, BC</em>
+                <em>
+                  <b>Styx Intelligence </b> (Remote - Burnaby, BC)
+                </em>
               </p>
               <ul>
                 <li>
@@ -64,7 +66,7 @@ export const Resume = ({ update }) => {
               <h4>Part-Time Full Stack Developer</h4>
               <h5>August 2021 - August 2022</h5>
               <p>
-                <em>Remote - Sapporo, Japan</em>
+                <em><b>Eraman LLC </b> (Remote - Sapporo, Japan)</em>
               </p>
               <ul>
                 <li>
@@ -88,7 +90,7 @@ export const Resume = ({ update }) => {
               <h4>Full Stack Developer</h4>
               <h5>January - July 2021</h5>
               <p>
-                <em>Sapporo, Japan</em>
+              <em><b>Diamond headco.,ltd </b> (Sapporo, Japan)</em>
               </p>
               <ul>
                 <li>
